@@ -1,0 +1,74 @@
+{
+   "header": {
+    "start_learning": "Start Learning",
+    "go_to_player": "Open Player"
+  },
+  "hero": {
+    "title": "Learn Through Your Subconscious Mind",
+    "subtitle": "Absorb a new language without effort by simply listening. No need for textbooks - just hear real conversations and let your brain do the work while you focus on your daily routine."
+  },
+  "language_grid": {
+    "title": "I want to learn"
+  },
+  "features_section": {
+    "title": "Why Choose Radiolingo?"
+  },
+  "features": [
+    {
+      "title": "Talk With Native Speakers",
+      "description": "Engage in conversations with native speakers and learn naturally. Pick up new words, expressions, and pronunciation just like locals."
+    },
+    {
+      "title": "Learn Through Your Subconscious Mind",
+      "description": "Absorb a new language without effort by simply listening. No need for textbooks - just hear real conversations and let your brain do the work."
+    }
+  ],
+  "pricing_section": {
+    "title": "Make Your Learning Faster"
+  },
+  "pricing_plans": {
+    "start": {
+      "name": "Start Plan",
+      "price": "FREE",
+      "period": "",
+      "button_text": "Start now",
+      "features": [
+        "Listen to 20 podcasts daily",
+        "5 conversations with members daily",
+        "Repeat the test 2 times"
+      ]
+    },
+    "pro": {
+      "name": "Professional Plan",
+      "price": "$19,99",
+      "period": "/ month",
+      "button_text": "Start now",
+      "features": [
+        "Listen to unlimited podcasts daily",
+        "Unlimited conversations with members",
+        "Repeat the test unlimited times"
+      ]
+    }
+  },
+  "footer": {
+    "copyright": "© {year} RadioLingo, All Rights Reserved."
+  },
+  "player": {
+    "title": "Radiolingo Player",
+    "subtitle": "Immerse yourself in the language, listen and learn effortlessly.",
+    "back_to_home": "Back to Home",
+    "native_language": "My Native Language:",
+    "target_language": "I want to learn:",
+    "select_level": "Select Level(s):",
+    "start_radio": "Start Radio",
+    "loading": "Loading...",
+    "error_fetching_languages": "Failed to load languages. Please try again later.",
+    "error_fetching_levels": "Failed to load levels for the selected language.",
+    "error_fetching_conversations": "Failed to load conversations.",
+    "no_levels_available": "No levels available for this language combination.",
+    "select_prompt": "Please select your languages and levels, then press 'Start Radio'.",
+    "level_1": "Level 1",
+    "level_2": "Level 2",
+    "level_3": "Level 3"
+  }
+}
